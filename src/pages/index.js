@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDom from 'react-dom';
 import Header from '../components/Header';
 import TabComponent from '../components/TabComponent';
 import Footer from '../components/Footer';

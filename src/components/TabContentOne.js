@@ -18,7 +18,7 @@ export default class TabContentOne extends Component {
                             <br />
                             <Button style={{ marginTop:'2rem' }} >try it now</Button>
                          </div>
-                         <img src='/images/tab-1-pic.png' />
+                         <img src='/images/tab-1-pic.png' alt="tabone" />
                     </div>
                 </div>
             </TabContentContainer>

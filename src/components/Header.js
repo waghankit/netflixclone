@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
-import { NavLink, Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import '../App.css';
 import { Icon } from 'react-icons-kit'
 import {arrow_right} from 'react-icons-kit/ikons/arrow_right';

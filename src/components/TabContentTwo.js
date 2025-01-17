@@ -14,17 +14,17 @@ export default function TabContentTwo() {
                 </div>
                 <div className='tab-bottom-content' >
                      <div>
-                         <img src={'/images/tab-tv.png'} style={{ width: '18.75rem' }} />
+                         <img src={'/images/tab-tv.png'} style={{ width: '18.75rem' }} alt="tv" />
                          <h3>Watch on your TV</h3>
                          <p>Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
                      </div>
                      <div>
-                         <img src={'/images/tab-tablet.png'} style={{ width: '18.75rem', paddingTop: '0.625rem' }}/>
+                         <img src={'/images/tab-tablet.png'} style={{ width: '18.75rem', paddingTop: '0.625rem' }} alt="tablet" />
                          <h3>Watch on your TV</h3>
                          <p>Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
                      </div>
                      <div>
-                         <img src={'/images/tab-macbook.png'} style={{ width: '18.75rem', paddingTop: '0.625rem', paddingBottom: '0.625rem' }} />
+                         <img src={'/images/tab-macbook.png'} style={{ width: '18.75rem', paddingTop: '0.625rem', paddingBottom: '0.625rem' }} alt="macbook" />
                          <h3>Watch on your TV</h3>
                          <p>Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</p>
                      </div>

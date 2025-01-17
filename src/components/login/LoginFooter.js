@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
-import { Icon } from 'react-icons-kit';
-import {sphere} from 'react-icons-kit/icomoon/sphere';
-import {arrow_down} from 'react-icons-kit/ikons/arrow_down';
 
 
 export default class LoginFooter extends Component {
